@@ -1,0 +1,2 @@
+# C-laragon-www-lelang-UAS_Praktikum_Pemrograman_Web_SistemLelang
+# Sistem Lelang Online (Laravel)  ## Deskripsi Aplikasi Sistem Lelang Online berbasis web yang dikembangkan menggunakan framework Laravel untuk memenuhi UAS Praktikum Pemrograman Web.  ## Fitur Utama - Login &amp; Register - Manajemen Barang Lelang - Proses Penawaran (Bid) - Penentuan Pemenang Lelang - Riwayat Penawaran  ## Teknologi - Laravel - PHP
