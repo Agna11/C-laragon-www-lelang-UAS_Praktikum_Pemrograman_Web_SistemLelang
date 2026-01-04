@@ -18,11 +18,11 @@ Aplikasi Sistem Lelang Online berbasis web yang dikembangkan menggunakan framewo
 
 ## Cara Menjalankan
 1. Clone repository
-2. Jalankan composer install
-3. Copy .env.example ke .env
+2. Jalankan `composer install`
+3. Copy `.env.example` ke `.env`
 4. Atur database
-5. Jalankan php artisan migrate
-6. Jalankan php artisan serve
+5. Jalankan `php artisan migrate`
+6. Jalankan `php artisan serve`
 
 ## Author
 Kelompok 5
