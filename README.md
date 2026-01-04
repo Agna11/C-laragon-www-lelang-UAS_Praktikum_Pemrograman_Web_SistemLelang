@@ -1,4 +1,3 @@
-# C-laragon-www-lelang-UAS_Praktikum_Pemrograman_Web_SistemLelang
 # Sistem Lelang Online (Laravel)
 
 ## Deskripsi
